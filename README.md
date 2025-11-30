@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm 16 years old.<br>I'm currently working on my game <br>Fun fact: i start coding 5 years ago (11 years old) 
+I'm 16 years old.<br>I'm currently working on my game <br>Fun facts: i start coding 5 years ago (11 years old)
 
 
 # 💻 Tech Stack:
